@@ -1,0 +1,4 @@
+[submodule "ClementChaumienneC2C/conceptLogQOQA"]
+	path = ClementChaumienneC2C/conceptLogQOQA
+	url = git@github.com:ClementChaumienneC2C/conceptLogQOQA.git
+	branch = Qoqa_NoData
